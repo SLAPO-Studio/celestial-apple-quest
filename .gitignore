@@ -1,0 +1,12 @@
+# OUTPUT FILES
+*.o
+
+# LIBS
+*.so
+*.dll
+*.so.*
+
+# EXECUTABLES
+*.exe
+*.app
+*.out
